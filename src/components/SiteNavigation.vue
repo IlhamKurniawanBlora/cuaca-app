@@ -54,7 +54,7 @@
           </p>
           <p>
             Github Source Code : <a class="text-blue-600 underline"
-              href="https://github.com/IlhamKurniawanBlora/cuaca_app">https://github.com/IlhamKurniawanBlora/cuaca_app</a>
+              href="https://github.com/IlhamKurniawanBlora/cuaca-app">https://github.com/IlhamKurniawanBlora/cuaca-app</a>
           </p>
         </div>
       </BaseModal>
